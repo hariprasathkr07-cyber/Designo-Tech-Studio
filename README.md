@@ -1,0 +1,1 @@
+The purpose of this repository is to develop and showcase projects created by Hari Prasath under Designo Tech Studio. It serves as a platform to build modern, fast, and responsive web applications using the latest technologies.
